@@ -9,7 +9,7 @@ meta:
 project:
   title: "More of Something Good"
   type: "Australia"
-  url: "https://github.com/transpacific-food-coop"
+  url: "moreofsomethinggood.com"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
   type: "Restaurants"
 

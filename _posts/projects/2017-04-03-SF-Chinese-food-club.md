@@ -10,12 +10,12 @@ project:
   title: "SF Chinese Food Club"
   type: "San Francisco, USA"
   url: "https://www.sfchinesefood.club/"
-  logo: "https://uploads-ssl.webflow.com/5e790281c238b607074dcb6b/5e8682cbd1e52357fdeda076_logo_2x-p-500.pnglogo.png"
+  logo: "/assets/images/projects/redpineapple/logo.png"
   type: "Restaurants"
 
 creator:
-  title: "Jessiechar"
-  url: "https://twitter.com/jessiechar"
+  title: "@mayli, @lindadong, @jessiechar,"
+  url: "ttps://www.sfchinesefood.club/"
   year: "2020"
 
 images:
