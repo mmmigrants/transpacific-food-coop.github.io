@@ -10,7 +10,7 @@ project:
   title: "Berlin Asian Restaurants"
   location: "Berlin, Germany"
   url: "https://shenchingtou.github.io/2020/asian-businesses-berlin-covid19.html"
-  logo: "/assets/images/projects/AsianBusinessesToSupportInBerlin.jpg"
+  logo: "/assets/images/projects/AsianBusinessesBerlin/AsianBusinessesBerlin.jpg"
 
 creator:
   title: "Athena Lam"
@@ -19,13 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/AsianBusinessesBerlin/AsianBusinessesBerlin.png"
+    alt: "Asian eateries and grocery stores in Berlin"
 ---
 <p>A broad list of Asian restaurants and grocery stores, including Japanese, Korean, Chinese, Vietnamese, Thai, etc.</p>
