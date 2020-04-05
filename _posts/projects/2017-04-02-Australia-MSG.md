@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "More of Something Good"
-  type: "Jekyll"
+  type: "Australia"
   url: "https://github.com/transpacific-food-coop"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
   tech: "Restaurants"
