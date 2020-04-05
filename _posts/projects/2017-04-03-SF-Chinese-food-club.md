@@ -10,7 +10,7 @@ project:
   title: "SF Chinese Food Club"
   location: "San Francisco, USA"
   url: "https://www.sfchinesefood.club/"
-  logo: "/assets/images/projects/SFChineseFoodClub.jpg"
+  logo: "/assets/images/projects/SFChineseFoodClub/SFChineseFoodClub.jpg"
 
 creator:
   title: "@mayli, @lindadong, @jessiechar,"
@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/devices.jpg"
+    url: "/assets/images/projects/SFChineseFoodClub/SFChineseFood.png"
     alt: "Green Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/greenpineapple/desktop.jpg"

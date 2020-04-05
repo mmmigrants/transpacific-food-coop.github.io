@@ -7,7 +7,7 @@ meta:
   keywords: "San francisco, chinatown, chinese food"
 
 project:
-  title: "Chinnatown Eats 品味華埠"
+  title: "Chinatown Eats 品味華埠"
   location: "San Francisco, USA"
   url: "https://sites.google.com/view/chinatowneats/home"
   logo: "/assets/images/projects/ChinatownEats/ChinatownEats.jpg"
