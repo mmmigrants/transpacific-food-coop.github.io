@@ -13,7 +13,7 @@ project:
   logo: "/assets/images/projects/aquapineapple/logo.png"
   type: "Restaurants"
 
-agency:
+creator:
   title: "CCED"
   url: "https://www.instagram.com/p/B90EK4OgAWe/?igshid=pzmr0mazmuk3"
   year: "2020"

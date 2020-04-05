@@ -13,7 +13,7 @@ project:
   logo: "/assets/images/projects/redpineapple/logo.png"
   type: "Restaurants, Grocery Stores"
 
-agency:
+creator:
   title: "Athena Lam"
   url: "https://shenchingtou.github.io"
   year: "2020"

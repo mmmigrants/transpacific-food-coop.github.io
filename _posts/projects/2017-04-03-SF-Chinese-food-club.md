@@ -13,7 +13,7 @@ project:
   logo: "https://uploads-ssl.webflow.com/5e790281c238b607074dcb6b/5e8682cbd1e52357fdeda076_logo_2x-p-500.pnglogo.png"
   type: "Restaurants"
 
-agency:
+creator:
   title: "Jessiechar"
   url: "https://twitter.com/jessiechar"
   year: "2020"

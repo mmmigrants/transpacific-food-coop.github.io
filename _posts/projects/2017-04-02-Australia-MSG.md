@@ -13,7 +13,7 @@ project:
   logo: "/assets/images/projects/yellowpineapple/logo.png"
   type: "Restaurants"
 
-agency:
+creator:
   title: "Studio Mimu"
   url: "https://www.instagram.com/studiomimu/"
   year: "2020"
