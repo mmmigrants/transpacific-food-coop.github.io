@@ -10,7 +10,7 @@ project:
   title: "Chinnatown Eats 品味華埠"
   location: "San Francisco, USA"
   url: "https://sites.google.com/view/chinatowneats/home"
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "/assets/images/projects/ChinatownEats.jpg"
 
 creator:
   title: "Rose Pak Democratic Club"
@@ -19,7 +19,13 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/ChinatownEats.jpg"
-    alt: "SFO Chinatown Eats Directory"
+    url: "/assets/images/projects/aquapineapple/devices.jpg"
+    alt: "Aqua Pineapple website on tablet, mobile and desktop"
+  - image:
+    url: "/assets/images/projects/aquapineapple/desktop.jpg"
+    alt: "Aqua Pineapple website on a desktop device"
+  - image:
+    url: "/assets/images/projects/aquapineapple/mobile.jpg"
+    alt: "Aqua Pineapple website on a mobile device"
 ---
 <p>A gallery of restaurants around San Francisco with links to restaurants, Doordash and Caviar.</p>

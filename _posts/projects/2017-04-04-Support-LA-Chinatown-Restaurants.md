@@ -10,7 +10,7 @@ project:
   title: "Support LA Chinatown's Restaurants"
   location: "Los Angeles, USA"
   url: "https://docs.google.com/spreadsheets/d/1XS8sT2QhNNrkiXd1Bw9EcNyr_FE0Rp9NX_Q9yrd2VeE/edit#gid=320934639"
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "/assets/images/projects/SupportLAChinatownRestaurants.jpg"
 
 creator:
   title: "CCED"
