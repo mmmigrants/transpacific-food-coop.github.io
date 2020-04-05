@@ -8,8 +8,8 @@ meta:
 
 project:
   title: "More of Something Good"
-  type: "Australia"
-  url: "moreofsomethinggood.com"
+  location: "Australia"
+  url: "https://moreofsomethinggood.com"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
 
 creator:
