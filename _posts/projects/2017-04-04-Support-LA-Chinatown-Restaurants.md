@@ -10,7 +10,7 @@ project:
   title: "Support LA Chinatown's Restaurants"
   location: "Los Angeles, USA"
   url: "https://docs.google.com/spreadsheets/d/1XS8sT2QhNNrkiXd1Bw9EcNyr_FE0Rp9NX_Q9yrd2VeE/edit#gid=320934639"
-  logo: "/assets/images/projects/SupportLAChinatownRestaurants.jpg"
+  logo: "/assets/images/projects/SupportLAChinatownRestaurants/SupportLAChinatownRestaurants.jpg"
 
 creator:
   title: "CCED"
@@ -19,13 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/aquapineapple/devices.jpg"
-    alt: "Aqua Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/aquapineapple/desktop.jpg"
-    alt: "Aqua Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/aquapineapple/mobile.jpg"
-    alt: "Aqua Pineapple website on a mobile device"
+    url: "/assets/images/projects/SupportLAChinatownRestaurants/SupportLAChinatownRestaurants.png"
+    alt: "Chinatown restaurants in LA"
 ---
 <p>A list of restaurants around LA</p>

@@ -10,7 +10,7 @@ project:
   title: "More of Something Good"
   location: "Australia"
   url: "https://moreofsomethinggood.com"
-  logo: "/assets/images/projects/MoreOfSomethingGood.jpg"
+  logo: "/assets/images/projects/MoreOfSomethingGood/MoreOfSomethingGood.jpg"
 
 creator:
   title: "Studio Mimu"
@@ -19,13 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
-    alt: "Yellow Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/yellowpineapple/desktop.jpg"
-    alt: "Yellow Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
-    alt: "Yellow Pineapple website on a mobile device"
+    url: "/assets/images/projects/MoreOfSomethingGood/MoreOfSomethingGood.png"
+    alt: "Chinese restaurants in Australia"
 ---
-<p>Australian</p>
+<p>Australian Chinese food eateries to support</p>
