@@ -11,7 +11,7 @@ project:
   type: "Australia"
   url: "https://github.com/transpacific-food-coop"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
-  tech: "Restaurants"
+  type: "Restaurants"
 
 agency:
   title: "Studio Mimu"

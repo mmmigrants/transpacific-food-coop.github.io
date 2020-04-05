@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "San francisco, chinatown, chinese food"
 
 project:
   title: "SF Chinese Food Club"
   type: "San Francisco, USA"
   url: "https://www.sfchinesefood.club/"
   logo: "https://uploads-ssl.webflow.com/5e790281c238b607074dcb6b/5e8682cbd1e52357fdeda076_logo_2x-p-500.pnglogo.png"
-  tech: "Restaurants"
+  type: "Restaurants"
 
 agency:
   title: "Jessiechar"

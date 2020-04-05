@@ -11,7 +11,7 @@ project:
   type: "Berlin, Germany"
   url: "https://shenchingtou.github.io/2020/asian-businesses-berlin-covid19.html"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "Restaurants, Grocery Stores"
+  type: "Restaurants, Grocery Stores"
 
 agency:
   title: "Athena Lam"
