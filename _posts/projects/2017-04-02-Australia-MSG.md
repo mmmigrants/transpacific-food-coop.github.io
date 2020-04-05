@@ -10,7 +10,7 @@ project:
   title: "More of Something Good"
   location: "Australia"
   url: "https://moreofsomethinggood.com"
-  logo: "/assets/images/projects/yellowpineapple/logo.png"
+  logo: "/assets/images/projects/MoreOfSomethingGood.jpg"
 
 creator:
   title: "Studio Mimu"

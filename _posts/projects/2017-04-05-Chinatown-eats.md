@@ -19,13 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/aquapineapple/devices.jpg"
-    alt: "Aqua Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/aquapineapple/desktop.jpg"
-    alt: "Aqua Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/aquapineapple/mobile.jpg"
-    alt: "Aqua Pineapple website on a mobile device"
+    url: "/assets/images/projects/ChinatownEats.jpg"
+    alt: "SFO Chinatown Eats Directory"
 ---
 <p>A gallery of restaurants around San Francisco with links to restaurants, Doordash and Caviar.</p>
