@@ -8,10 +8,9 @@ meta:
 
 project:
   title: "Support LA Chinatown's Restaurant"
-  type: "Los Angeles, USA"
+  location: "Los Angeles, USA"
   url: "https://docs.google.com/spreadsheets/d/1XS8sT2QhNNrkiXd1Bw9EcNyr_FE0Rp9NX_Q9yrd2VeE/edit#gid=320934639"
   logo: "/assets/images/projects/aquapineapple/logo.png"
-  type: "Restaurants"
 
 creator:
   title: "CCED"

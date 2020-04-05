@@ -8,10 +8,9 @@ meta:
 
 project:
   title: "SF Chinese Food Club"
-  type: "San Francisco, USA"
+  location: "San Francisco, USA"
   url: "https://www.sfchinesefood.club/"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  type: "Restaurants"
 
 creator:
   title: "@mayli, @lindadong, @jessiechar,"

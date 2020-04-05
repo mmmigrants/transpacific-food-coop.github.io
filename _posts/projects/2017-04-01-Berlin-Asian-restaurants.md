@@ -8,10 +8,9 @@ meta:
 
 project:
   title: "Berlin Asian Restaurants"
-  type: "Berlin, Germany"
+  location: "Berlin, Germany"
   url: "https://shenchingtou.github.io/2020/asian-businesses-berlin-covid19.html"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  type: "Restaurants, Grocery Stores"
 
 creator:
   title: "Athena Lam"

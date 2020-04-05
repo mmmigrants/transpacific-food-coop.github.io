@@ -11,7 +11,6 @@ project:
   type: "Australia"
   url: "moreofsomethinggood.com"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
-  type: "Restaurants"
 
 creator:
   title: "Studio Mimu"
