@@ -20,12 +20,6 @@ creator:
 images:
   - image:
     url: "/assets/images/projects/SFChineseFoodClub/SFChineseFood.png"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/greenpineapple/desktop.jpg"
-    alt: "Green Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/greenpineapple/mobile.jpg"
-    alt: "Green Pineapple website on a mobile device"
+    alt: "SFO Chinatown food club menu"
 ---
 <p>A stylised menu of food recommendations.</p>
