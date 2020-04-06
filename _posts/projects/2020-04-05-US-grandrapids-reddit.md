@@ -4,17 +4,17 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "San francisco, chinatown, chinese food"
+  keywords: "USA, grand rapids, asian food, chinese food"
 
 project:
-  title: "Chinatown Eats 品味華埠"
-  location: "San Francisco, USA"
-  url: "https://sites.google.com/view/chinatowneats/home"
+  title: "Grand Rapids Reddit Asian Food Thread"
+  location: "Grand Rapids"
+  url: "https://www.reddit.com/r/grandrapids/comments/fho99u/please_order_chinese_food_to_eat_these_americans/"
   logo: "/assets/images/projects/ChinatownEats/ChinatownEats.jpg"
 
 creator:
-  title: "Rose Pak Democratic Club"
-  url: "https://rosepakdemclub.org"
+  title: "Redditers"
+  url: "https://reddit.com"
   year: "2020"
 
 images:
@@ -22,4 +22,4 @@ images:
     url: "/assets/images/projects/ChinatownEats/ChinatownEats.png"
     alt: "San Francisco Chinatown Eats Directory"
 ---
-<p>A gallery of restaurants around San Francisco with links to restaurants, Doordash and Caviar.</p>
+<p>An organic thread with people raving about their favourite restaurants.</p>

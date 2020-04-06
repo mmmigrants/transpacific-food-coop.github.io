@@ -4,22 +4,22 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "germany, hamburg, asian restaurant, chinese food"
 
 project:
-  title: "Berlin Asian Restaurants"
-  location: "Berlin, Germany"
-  url: "https://shenchingtou.github.io/2020/asian-businesses-berlin-covid19.html"
-  logo: "/assets/images/projects/AsianBusinessesBerlin/AsianBusinessesBerlin.jpg"
+  title: "Asian Fine Dining in HH"
+  location: "Hamburg, Germany"
+  url: "https://docs.google.com/document/d/1p4CLmyA7m9nuhMfwNhwJJw9FPEldk8ohpjxFglJhs5w/"
+  logo: "/assets/images/projects/DE-AsianFineDining/logo.jpeg"
 
 creator:
-  title: "Athena Lam"
-  url: "https://shenchingtou.github.io"
+  title: "Xiyu Yang"
+  url: "http://xiyutomorrow.com/about/ "
   year: "2020"
 
 images:
   - image:
-    url: "/assets/images/projects/AsianBusinessesBerlin/AsianBusinessesBerlin.png"
+    url: "/assets/images/projects/DE-AsianFineDining/screenshot.png"
     alt: "Asian eateries and grocery stores in Berlin"
 ---
-<p>A broad list of Asian restaurants and grocery stores, including Japanese, Korean, Chinese, Vietnamese, Thai, etc.</p>
+<p>A list and <a href="https://drive.google.com/open?id=17FcZhNcKiCRUzeduyDXHFbr6KcnhG2Jh&usp=sharing"> Google Map of Chinese, Japanese, Korean, Vietnamese, and other Asian restaurants in Hamburg.</a></p>
