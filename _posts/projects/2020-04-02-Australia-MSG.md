@@ -10,7 +10,7 @@ project:
   title: "More of Something Good"
   location: "Australia"
   url: "https://moreofsomethinggood.com"
-  logo: "/assets/images/projects/MoreOfSomethingGood/MoreOfSomethingGood.jpg"
+  logo: "/assets/images/projects/AU-MSG/logo.png"
 
 creator:
   title: "Studio Mimu"
@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/MoreOfSomethingGood/MoreOfSomethingGood.png"
+    url: "/assets/images/projects/AU-MSG/screenshot.png"
     alt: "Chinese restaurants in Australia"
 ---
 <p>Australian Chinese food eateries to support</p>

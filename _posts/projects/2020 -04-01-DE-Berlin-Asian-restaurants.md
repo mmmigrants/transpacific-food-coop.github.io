@@ -10,7 +10,7 @@ project:
   title: "Berlin Asian Restaurants"
   location: "Berlin, Germany"
   url: "https://shenchingtou.github.io/2020/asian-businesses-berlin-covid19.html"
-  logo: "/assets/images/projects/AsianBusinessesBerlin/AsianBusinessesBerlin.jpg"
+  logo: "/assets/images/projects/DE-AsianBusinessesBerlin/logo.png"
 
 creator:
   title: "Athena Lam"
@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/AsianBusinessesBerlin/AsianBusinessesBerlin.png"
+    url: "/assets/images/projects/DE-AsianBusinessesBerlin/screenshot.png"
     alt: "Asian eateries and grocery stores in Berlin"
 ---
 <p>A broad list of Asian restaurants and grocery stores, including Japanese, Korean, Chinese, Vietnamese, Thai, etc.</p>

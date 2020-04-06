@@ -10,7 +10,7 @@ project:
   title: "Chinatown Eats 品味華埠"
   location: "San Francisco, USA"
   url: "https://sites.google.com/view/chinatowneats/home"
-  logo: "/assets/images/projects/ChinatownEats/ChinatownEats.jpg"
+  logo: "/assets/images/projects/US-ChinatownEats/logo.png"
 
 creator:
   title: "Rose Pak Democratic Club"
@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/ChinatownEats/ChinatownEats.png"
+    url: "/assets/images/projects/US-ChinatownEats/screenshot.png"
     alt: "San Francisco Chinatown Eats Directory"
 ---
 <p>A gallery of restaurants around San Francisco with links to restaurants, Doordash and Caviar.</p>

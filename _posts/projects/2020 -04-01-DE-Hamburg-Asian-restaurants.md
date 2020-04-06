@@ -10,7 +10,7 @@ project:
   title: "Asian Fine Dining in HH"
   location: "Hamburg, Germany"
   url: "https://docs.google.com/document/d/1p4CLmyA7m9nuhMfwNhwJJw9FPEldk8ohpjxFglJhs5w/"
-  logo: "/assets/images/projects/DE-AsianFineDining/logo.jpeg"
+  logo: "/assets/images/projects/DE-AsianFineDining/logo.jpg"
 
 creator:
   title: "Xiyu Yang"
