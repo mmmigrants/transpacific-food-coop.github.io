@@ -1,9 +1,16 @@
-# User config
-author: "Asian Eats Directory"
+# Site Config (including for SEO)
+author: "Transpacific Food Coop"
+title: "Asian Eats Directory"
 tagline: "A collective supporting Asian food culture and businesses"
+
 description: "This is a global directory that collects local directories of Asian eateries. While this project began to support East Asian businesses facing racism and tough times during Covid-19, we welcome all Asian communities. From Korea down to Indonesia, Japan, through the Middle East."
+
 keywords: "local Asian restaurants"
 email: "contact@transpacificfoodcoop.com"
+logo: /favicon-16x16.png
+image: /favicon-16x16.jpg
+
+# Social (includes SEO)
 linkedin: "https://www.linkedin.com/"
 twitter: "https://twitter.com/"
 github: "https://github.com/transpacific-food-coop"
@@ -14,3 +21,7 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+
+# Plugins
+plugins: [jekyll-seo-tag]
+  
