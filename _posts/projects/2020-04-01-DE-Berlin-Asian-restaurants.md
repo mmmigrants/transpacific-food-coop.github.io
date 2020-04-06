@@ -10,7 +10,7 @@ project:
   title: "Berlin Asian Restaurants"
   location: "Berlin, Germany"
   url: "https://shenchingtou.github.io/2020/asian-businesses-berlin-covid19.html"
-  logo: "/assets/images/projects/DE-AsianBusinessesBerlin/logo.png"
+  logo: "/assets/images/projects/DE-AsianBusinessesBerlin/logo.jpg"
 
 creator:
   title: "Athena Lam"
