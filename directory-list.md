@@ -12,5 +12,6 @@ Last Updated: 6 April 2020
 
 ## Germany 
 * [Asian Businesses to Support in Berlin](https://shenchingtou.github.io/2020/asian-businesses-berlin-covid19.html) managed by [@shenchingtou](https://twitter.com/shenchingtou)
+* [Fine Asian Dining in HH](https://docs.google.com/document/d/1p4CLmyA7m9nuhMfwNhwJJw9FPEldk8ohpjxFglJhs5w/) and [Google Map](https://drive.google.com/open?id=17FcZhNcKiCRUzeduyDXHFbr6KcnhG2Jh&usp=sharing)
 
 Please submit a pull request if you've created a list or directory. Thanks!
