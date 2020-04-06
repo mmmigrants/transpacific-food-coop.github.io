@@ -10,7 +10,7 @@ project:
   title: "SF Chinese Food Club"
   location: "San Francisco, USA"
   url: "https://www.sfchinesefood.club/"
-  logo: "/assets/images/projects/US-SFChineseFoodClub/logo.png"
+  logo: "/assets/images/projects/US-SFChineseFoodClub/logo.jpg"
 
 creator:
   title: "@mayli, @lindadong, @jessiechar,"

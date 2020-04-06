@@ -10,7 +10,7 @@ project:
   title: "Chinatown Eats 品味華埠"
   location: "San Francisco, USA"
   url: "https://sites.google.com/view/chinatowneats/home"
-  logo: "/assets/images/projects/US-ChinatownEats/logo.png"
+  logo: "/assets/images/projects/US-ChinatownEats/logo.jpg"
 
 creator:
   title: "Rose Pak Democratic Club"
