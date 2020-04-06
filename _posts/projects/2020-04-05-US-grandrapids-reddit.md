@@ -10,7 +10,7 @@ project:
   title: "Grand Rapids Reddit Asian Food Thread"
   location: "Grand Rapids"
   url: "https://www.reddit.com/r/grandrapids/comments/fho99u/please_order_chinese_food_to_eat_these_americans/"
-  logo: "/assets/images/projects/ChinatownEats/ChinatownEats.jpg"
+  logo: "/assets/images/projects/US-GrandRapidsReddit/logo.png"
 
 creator:
   title: "Redditers"
@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/ChinatownEats/ChinatownEats.png"
-    alt: "San Francisco Chinatown Eats Directory"
+    url: "/assets/images/projects/US-GrandRapidsReddit/GrandRapidsReddit.png"
+    alt: "A subreddit in Grand Rapids on Asian food"
 ---
 <p>An organic thread with people raving about their favourite restaurants.</p>
