@@ -1,7 +1,8 @@
 # About the project
 
 # To Contribute
-Please submit a pull request to: https://github.com/transpacific-food-coop/transpacific-food-coop.github.io/blob/master/directory-list.md
+- Submit a pull request to [the directory List](https://github.com/transpacific-food-coop/transpacific-food-coop.github.io/blob/master/directory-list.md)
+- e-mail: contact@transpacificfoodcoop.com
 
 # Credits 
 Pineapple Theme: https://github.com/arnolds/pineapple
