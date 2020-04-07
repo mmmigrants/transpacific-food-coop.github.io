@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/DE-AsianBusinessesBerlin/screenshot.png"
+    url: "/assets/images/projects/DE-AsianBusinessesBerlin/screenshot.jpg"
     alt: "Asian eateries and grocery stores in Berlin"
 ---
 <p>A broad list of Asian restaurants and grocery stores, including Japanese, Korean, Chinese, Vietnamese, Thai, etc.</p>

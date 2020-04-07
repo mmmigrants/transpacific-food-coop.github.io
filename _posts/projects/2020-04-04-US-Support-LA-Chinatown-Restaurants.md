@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/US-SupportLAChinatown/screenshot.png"
+    url: "/assets/images/projects/US-SupportLAChinatown/screenshot.jpg"
     alt: "Chinatown restaurants in LA"
 ---
 <p>A list of restaurants around LA</p>

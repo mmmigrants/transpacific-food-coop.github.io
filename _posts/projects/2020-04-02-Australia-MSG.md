@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/AU-MSG/screenshot.png"
+    url: "/assets/images/projects/AU-MSG/screenshot.jpg"
     alt: "Chinese restaurants in Australia"
 ---
 <p>Australian Chinese food eateries to support</p>

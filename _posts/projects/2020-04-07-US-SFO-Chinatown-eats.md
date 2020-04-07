@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/US-ChinatownEats/screenshot.png"
+    url: "/assets/images/projects/US-ChinatownEats/screenshot.jpg"
     alt: "San Francisco Chinatown Eats Directory"
 ---
 <p>A gallery of restaurants around San Francisco with links to restaurants, Doordash and Caviar.</p>

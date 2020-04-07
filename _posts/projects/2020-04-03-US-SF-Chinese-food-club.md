@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/US-SFChineseFoodClub/screenshot.png"
+    url: "/assets/images/projects/US-SFChineseFoodClub/screenshot.jpg"
     alt: "SFO Chinatown food club menu"
 ---
 <p>A stylised menu of food recommendations.</p>

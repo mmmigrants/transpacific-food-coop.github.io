@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/DE-AsianFineDining/screenshot.png"
+    url: "/assets/images/projects/DE-AsianFineDining/screenshot.jpg"
     alt: "Asian eateries and grocery stores in Berlin"
 ---
 <p>A list and <a href="https://drive.google.com/open?id=17FcZhNcKiCRUzeduyDXHFbr6KcnhG2Jh&usp=sharing"> Google Map of Chinese, Japanese, Korean, Vietnamese, and other Asian restaurants in Hamburg.</a></p>
