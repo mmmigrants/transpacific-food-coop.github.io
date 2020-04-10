@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Brookline AAFN Facebook Group"
-  location: "Brookline"
+  location: "Brookline, USA"
   url: "https://www.facebook.com/groups/baafn/permalink/2401679593270310/"
   logo: "/assets/images/projects/US-BrooklineAAFN/logo.jpg"
 
