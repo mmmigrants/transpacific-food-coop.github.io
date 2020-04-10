@@ -4,17 +4,17 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "berlin, asian food, chinese restaurant, asian restaurants"
 
 project:
   title: "Berlin Asian Restaurants"
   location: "Berlin, Germany"
-  url: "https://shenchingtou.github.io/2020/asian-businesses-berlin-covid19.html"
+  url: "https://tinyurl.com/berlinasianfood"
   logo: "/assets/images/projects/DE-AsianBusinessesBerlin/logo.jpg"
 
 creator:
   title: "Athena Lam"
-  url: "https://shenchingtou.github.io"
+  url: "https://shenchingtou.github.io/2020/asian-businesses-berlin-covid19.html"
   year: "2020"
 
 images:
