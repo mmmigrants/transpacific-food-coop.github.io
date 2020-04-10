@@ -10,7 +10,7 @@ project:
   title: "Think Chinatown - Recovery""
   location: "New York City, USA"
   url: "https://www.thinkchinatown.org/recoverye"
-  logo: "/assets/images/projects/US-ChinatownEats/logo.jpg"
+  logo: "/assets/images/projects/US-Thinkchinatown/logo.jpg"
 
 creator:
   title: "Think Chinatown""
@@ -19,7 +19,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/US-ChinatownEats/screenshot.jpg"
-    alt: "San Francisco Chinatown Eats Directory"
+    url: "/assets/images/projects/US-Thinkchinatown/screenshot.jpg"
+    alt: "NYC Chinatown restaurants and groceries page"
 ---
 <p>Includes neighboruhood-wide takeout & delivery for restaurants, grocery stores, a relief fund, gift cards and more.</p>
