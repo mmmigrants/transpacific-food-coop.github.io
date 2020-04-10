@@ -7,14 +7,14 @@ meta:
   keywords: "nyc, chinatown, chinese food"
 
 project:
-  title: "Think Chinatown - Recovery""
+  title: "Think Chinatown - Recovery"
   location: "New York City, USA"
   url: "https://www.thinkchinatown.org/recoverye"
   logo: "/assets/images/projects/US-Thinkchinatown/logo.jpg"
 
 creator:
-  title: "Think Chinatown""
-  url: "https://www.thinkchinatown.org""
+  title: "Think Chinatown"
+  url: "https://www.thinkchinatown.org"
   year: "2020"
 
 images:
