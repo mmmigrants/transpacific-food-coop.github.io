@@ -5,6 +5,11 @@ category: projects
 tags: [USA, Brookline]
 meta:
   keywords: "USA, brookline, asian american family network, aafn"
+  title: Brookline AAFN Facebook Group
+  image:
+    path: /assets/images/projects/US-BrooklineAAFN/logo.jpg
+    height: 100
+    width: 100
 
 project:
   title: "Brookline AAFN Facebook Group"
