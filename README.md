@@ -6,6 +6,7 @@
 
 # Credits 
 Pineapple Theme: https://github.com/arnolds/pineapple
-
 [Demo site](https://arnolds.io/pineapple/).
 
+## Notes / Mods
+- [SEO Tags](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md)
