@@ -5,11 +5,11 @@ category: projects
 tags: [USA, San Francisco]
 meta:
   keywords: "San francisco, chinatown, chinese food"
-  title: Chinatown Eats 品味華埠
-  image:
-    path: /assets/images/projects/US-ChinatownEats/logo.jpg
-    height: 100
-    width: 100
+title: Chinatown Eats 品味華埠
+image:
+  path: /assets/images/projects/US-ChinatownEats/logo.jpg
+  height: 100
+  width: 100
     
 project:
   title: "Chinatown Eats 品味華埠"

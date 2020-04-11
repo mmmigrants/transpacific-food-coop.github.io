@@ -5,11 +5,11 @@ category: projects
 tags: [Germany, Hamburg]
 meta:
   keywords: "germany, hamburg, asian restaurant, chinese food"
-  title: Asian Fine Dining in Hamburg
-  image:
-    path: /assets/images/projects/DE-AsianFineDining/logo.jpg
-    height: 100
-    width: 100
+title: Asian Fine Dining in Hamburg
+image:
+  path: /assets/images/projects/DE-AsianFineDining/logo.jpg
+  height: 100
+  width: 100
     
 project:
   title: "Asian Fine Dining in HH"

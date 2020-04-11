@@ -5,11 +5,11 @@ category: projects
 tags: [USA, Grand Rapids]
 meta:
   keywords: "USA, grand rapids, asian food, chinese food"
-  title: Grand Rapids Reddit Asian Food Thread
-  image:
-    path: /assets/images/projects/US-GrandRapidsReddit/logo.jpg
-    height: 100
-    width: 100
+title: Grand Rapids Reddit Asian Food Thread
+image:
+  path: /assets/images/projects/US-GrandRapidsReddit/logo.jpg
+  height: 100
+  width: 100
     
 project:
   title: "Grand Rapids Reddit Asian Food Thread"

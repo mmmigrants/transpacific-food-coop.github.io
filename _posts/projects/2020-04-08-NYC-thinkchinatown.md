@@ -5,11 +5,11 @@ category: projects
 tags: [USA, New York City]
 meta:
   keywords: "nyc, chinatown, chinese food"
-  title: Think Chinatown - Recovery
-  image:
-    path: /assets/images/projects/US-Thinkchinatown/logo.jpg
-    height: 100
-    width: 100
+title: Think Chinatown - Recovery
+image:
+  path: /assets/images/projects/US-Thinkchinatown/logo.jpg
+  height: 100
+  width: 100
 
 
 project:

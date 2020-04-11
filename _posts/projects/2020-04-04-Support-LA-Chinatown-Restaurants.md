@@ -5,11 +5,11 @@ category: projects
 tags: [USA, Los Angeles]
 meta:
   keywords: "USA, Los Angeles, Asian food, chinese food"
-  title: Support LA Chinatown's Restaurants
-  image:
-    path: /assets/images/projects/US-SupportLAChinatown/logo.jpg
-    height: 100
-    width: 100
+title: Support LA Chinatown's Restaurants
+image:
+  path: /assets/images/projects/US-SupportLAChinatown/logo.jpg
+  height: 100
+  width: 100
 
 project:
   title: "Support LA Chinatown's Restaurants"

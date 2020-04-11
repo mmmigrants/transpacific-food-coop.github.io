@@ -5,11 +5,11 @@ category: projects
 tags: [Australia]
 meta:
   keywords: "Australia"
-  title: More of Something Good (MSG)
-  image:
-    path: /assets/images/projects/AU-MSG/logo.jpg
-    height: 100
-    width: 100
+title: More of Something Good (MSG)
+image:
+  path: /assets/images/projects/AU-MSG/logo.jpg
+  height: 100
+  width: 100
 
 project:
   title: "More of Something Good (MSG)"

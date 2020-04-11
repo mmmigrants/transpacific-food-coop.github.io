@@ -5,11 +5,11 @@ category: projects
 tags: [Germany, Berlin]
 meta:
   keywords: "berlin, asian food, chinese restaurant, asian restaurants"
-  title: Berlin Asian Restaurants
-  image:
-    path: /assets/images/projects/DE-AsianBusinessesBerlin/logo.jpg
-    height: 100
-    width: 100
+title: Berlin Asian Restaurants
+image:
+  path: /assets/images/projects/DE-AsianBusinessesBerlin/logo.jpg
+  height: 100
+  width: 100
     
 project:
   title: "Berlin Asian Restaurants"

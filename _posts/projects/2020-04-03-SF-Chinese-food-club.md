@@ -5,11 +5,11 @@ category: projects
 tags: [USA, San Francisco]
 meta:
   keywords: "San francisco, chinatown, chinese food"
-  title: SF Chinese Food Club
-  image:
-    path: /assets/images/projects/US-SFChineseFoodClub/logo.jpg
-    height: 100
-    width: 100
+title: SF Chinese Food Club
+image:
+  path: /assets/images/projects/US-SFChineseFoodClub/logo.jpg
+  height: 100
+  width: 100
 
 project:
   title: "SF Chinese Food Club"

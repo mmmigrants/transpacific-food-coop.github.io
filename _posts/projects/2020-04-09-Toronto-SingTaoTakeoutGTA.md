@@ -5,8 +5,8 @@ category: projects
 tags: [Canada, Toronto]
 meta:
   keywords: "Canada, toronto, markham, richmond hill, scarborough, GTA, chinese food"
-  title: Toronto Chinese Takeout 餐廳外賣指南
-  image:
+title: Toronto Chinese Takeout 餐廳外賣指南
+image:
   path: /assets/images/projects/CA-SingTaoTakeoutGTA/logo.jpg
   height: 100
   width: 100
