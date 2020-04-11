@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-
+tags: [USA, Los Angeles]
 meta:
   keywords: "Jekyll, Pineapple"
 

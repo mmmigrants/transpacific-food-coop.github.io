@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-
+tags: [Canada, Vancouver]
 meta:
   keywords: "nyc, chinatown, chinese food"
 

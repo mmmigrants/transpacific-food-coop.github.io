@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-
+tags: [USA, Grand Rapids]
 meta:
   keywords: "USA, grand rapids, asian food, chinese food"
 

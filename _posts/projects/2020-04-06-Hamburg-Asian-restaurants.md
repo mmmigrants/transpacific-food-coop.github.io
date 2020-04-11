@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-
+tags: [Germany, Hamburg]
 meta:
   keywords: "germany, hamburg, asian restaurant, chinese food"
 
