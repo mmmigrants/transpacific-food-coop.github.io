@@ -6,7 +6,7 @@ tags: [USA, Boston]
 meta:
   keywords: "USA, Bostonn"
 image:
-  path: /assets/images/projects/CA-SingTaoVanTakeout/logo.jpg
+  path: /assets/images/projects/US-ChineseinBoston/logo.jpg
   height: 100
   width: 100
 
