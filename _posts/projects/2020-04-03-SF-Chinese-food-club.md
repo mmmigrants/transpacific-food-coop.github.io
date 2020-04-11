@@ -2,9 +2,14 @@
 layout: project
 permalink: /:title/
 category: projects
-
+tags: [USA, San Francisco]
 meta:
   keywords: "San francisco, chinatown, chinese food"
+title: SF Chinese Food Club
+image:
+  path: /assets/images/projects/US-SFChineseFoodClub/logo.jpg
+  height: 100
+  width: 100
 
 project:
   title: "SF Chinese Food Club"
@@ -19,7 +24,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/US-SFChineseFoodClub/screenshot.png"
+    url: "/assets/images/projects/US-SFChineseFoodClub/screenshot.jpg"
     alt: "SFO Chinatown food club menu"
 ---
 <p>A stylised menu of food recommendations.</p>

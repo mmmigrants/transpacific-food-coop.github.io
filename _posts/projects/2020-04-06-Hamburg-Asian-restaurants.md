@@ -2,10 +2,15 @@
 layout: project
 permalink: /:title/
 category: projects
-
+tags: [Germany, Hamburg]
 meta:
   keywords: "germany, hamburg, asian restaurant, chinese food"
-
+title: Asian Fine Dining in Hamburg
+image:
+  path: /assets/images/projects/DE-AsianFineDining/logo.jpg
+  height: 100
+  width: 100
+    
 project:
   title: "Asian Fine Dining in HH"
   location: "Hamburg, Germany"
@@ -19,7 +24,7 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/DE-AsianFineDining/screenshot.png"
+    url: "/assets/images/projects/DE-AsianFineDining/screenshot.jpg"
     alt: "Asian eateries and grocery stores in Berlin"
 ---
 <p>A list and <a href="https://drive.google.com/open?id=17FcZhNcKiCRUzeduyDXHFbr6KcnhG2Jh&usp=sharing"> Google Map of Chinese, Japanese, Korean, Vietnamese, and other Asian restaurants in Hamburg.</a></p>
