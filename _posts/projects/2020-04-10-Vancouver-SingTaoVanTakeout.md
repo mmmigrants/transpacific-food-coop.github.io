@@ -4,22 +4,22 @@ permalink: /:title/
 category: projects
 tags: [Canada, Vancouver]
 meta:
-  keywords: "nyc, chinatown, chinese food"
+  keywords: "Canada, Vancouver, Richmond, Burnaby, chinese food"
 
 project:
-  title: "Think Chinatown - Recovery"
-  location: "New York City, USA"
-  url: "https://www.thinkchinatown.org/recoverye"
-  logo: "/assets/images/projects/US-Thinkchinatown/logo.jpg"
+  title: "SingTao Vancouver Takeout 大溫飲食情報"
+  location: "Vancouver / Lower Mainland, Canada"
+  url: "https://www.singtao.ca/van_takeout/"
+  logo: "/assets/images/projects/CA-SingTaoVanTakeout/logo.jpg"
 
 creator:
-  title: "Think Chinatown"
-  url: "https://www.thinkchinatown.org"
+  title: "SingTao Daily 星島日報"
+  url: "https://www.singtao.ca/van_takeout/"
   year: "2020"
 
 images:
   - image:
-    url: "/assets/images/projects/US-Thinkchinatown/screenshot.jpg"
-    alt: "NYC Chinatown restaurants and groceries page"
+    url: "/assets/images/projects/CA-SingTaoVanTakeout/screenshot.jpg"
+    alt: "Chinese Restaurants in Vancouver, Burnaby, Richmond, and the Lower Mainland"
 ---
-<p>Includes neighboruhood-wide takeout & delivery for restaurants, grocery stores, a relief fund, gift cards and more.</p>
+<p>A list of Chinese Restaurants in Vancouver, Burnaby, Richmond, and the Lower Mainland, whether they are doing takeout, and which platforms they use.</p>
