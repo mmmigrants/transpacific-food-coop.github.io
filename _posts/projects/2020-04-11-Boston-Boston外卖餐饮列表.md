@@ -3,7 +3,6 @@ layout: project
 permalink: /:title/
 category: projects
 tags: [Canada, Vancouver]
-title: SingTao Vancouver Takeout 大溫飲食情報
 meta:
   keywords: "Canada, Vancouver, Richmond, Burnaby, chinese food"
 image:
