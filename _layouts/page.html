@@ -1,0 +1,52 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>{{ site.title }} / {{ site.tagline }}</title>
+	<meta name="author" content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+	<meta name="keywords" content="{{ site.keywords }}">
+	{% include head.html %}
+	{% seo %}
+</head>
+    <body>    
+	{% include header.html %}
+	<main class="content">
+		<section class="project">
+			<div class="container">
+				<article>
+					<span class="h2"></span>
+					<h1>
+						About
+					</h1>
+					<span class="h2">Description</span>
+					{{ content }}
+					<div class="project-meta">
+						<span class="h2">Location(s)</span>
+						<p>{{ page.project.location }}</p>
+						<span class="h2">Managed by</span>
+						<p><a title="{{ page.creator.title }}" href="{{ page.creator.url }}" target="_blank" rel="nofollow">{{ page.creator.title }}</a></p>
+						<span class="h2">Year</span>
+						<p>{{ page.creator.year }}</p>
+					</div>
+				</article>
+				<aside>
+					<ul>
+						{% for image in page.images %}
+						<li>
+							<img src="{{ image.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
+						</li>
+						{% endfor %}
+					</ul>
+				</aside>
+			</div>
+		</section>
+	</main>
+	{% include footer.html %}
+	<script src="{{ "/assets/scripts/vendor/jquery-1.12.4.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/vendor/sticky-kit.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/project.js" | prepend: site.baseurl }}"></script>
+</body>
+</html>
