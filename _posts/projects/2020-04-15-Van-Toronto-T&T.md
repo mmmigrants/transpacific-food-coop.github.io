@@ -24,10 +24,10 @@ creator:
 images:
   - image:
     url: "/assets/images/projects/CA-T&T/screenshot.jpg"
-    alt: "T&T"
+    alt: "T&T Chinese English online store"
   - image:
     url: "/assets/images/projects/CA-T&T/screenshot1.jpg"
-    alt: "T&T Online Store"
+    alt: "T&T Online orders"
   - image:
     url: "/assets/images/projects/CA-T&T/screenshot2.jpg"
     alt: "T&T online stores"
