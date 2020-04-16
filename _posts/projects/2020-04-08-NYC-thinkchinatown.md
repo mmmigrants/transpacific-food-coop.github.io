@@ -15,7 +15,7 @@ image:
 project:
   title: "Think Chinatown - Recovery"
   location: "New York City, USA"
-  url: "https://www.thinkchinatown.org/recoverye"
+  url: "https://www.thinkchinatown.org/recovery"
   logo: "/assets/images/projects/US-Thinkchinatown/logo.jpg"
 
 creator:
