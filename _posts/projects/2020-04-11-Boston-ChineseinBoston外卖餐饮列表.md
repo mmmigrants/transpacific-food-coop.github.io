@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 tags: [USA, Boston]
 meta:
-  keywords: "USA, Bostonn"
+  keywords: "USA, Boston"
 image:
   path: /assets/images/projects/US-ChineseinBoston/logo.jpg
   height: 100
