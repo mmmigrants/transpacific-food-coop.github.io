@@ -14,7 +14,7 @@ project:
   title: "Zürich Chinatown"
   location: "Zürich, Switzerland"
   url: "https://zurich-chinatown.ch/category/restaurants/"
-  logo: "/assets/images/projects/CA-T&T/logo.jpg"
+  logo: "/assets/images/projects/CH-ZurichChinatown/logo.jpg"
 
 creator:
   title: "Sandra Bachmann"
