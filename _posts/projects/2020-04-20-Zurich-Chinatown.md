@@ -6,7 +6,7 @@ tags: [Switzerland, Zurich]
 meta:
   keywords: "Switzerland, Zurich, Chinatown"
 image:
-  path: /assets/images/projects/CH-Zurich-Chinatown/logo.jpg
+  path: /assets/images/projects/CH-ZurichChinatown/logo.jpg
   height: 100
   width: 100
 
@@ -23,10 +23,10 @@ creator:
 
 images:
   - image:
-    url: "/assets/images/projects/CH-Zurich-Chinatown/screenshot.jpg"
+    url: "/assets/images/projects/CH-ZurichChinatown/screenshot.jpg"
     alt: "Zurich Chinatown restaurants"
   - image:
-    url: "/assets/images/projects/CH-Zurich-Chinatown/screenshot1.jpg"
+    url: "/assets/images/projects/CH-ZurichChinatown/screenshot1.jpg"
     alt: "Zurich Chinatown website"
 ---
 <p>An English-language website for Zürich Chinatown that includes news, restaurants, events, stories, and cultural information.</p>
