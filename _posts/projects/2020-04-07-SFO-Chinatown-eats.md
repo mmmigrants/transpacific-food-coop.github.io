@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [USA, San Francisco]
+tags: [us, San Francisco]
 meta:
   keywords: "San francisco, chinatown, chinese food"
 title: Chinatown Eats 品味華埠

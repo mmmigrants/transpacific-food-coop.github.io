@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [USA, Brookline]
+tags: [us, Brookline]
 meta:
   keywords: "USA, brookline, asian american family network, aafn"
 title: Brookline AAFN Facebook Group

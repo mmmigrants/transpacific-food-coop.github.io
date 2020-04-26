@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [USA, Los Angeles]
+tags: [us, Los Angeles]
 meta:
   keywords: "USA, Los Angeles, Asian food, chinese food"
 title: Support LA Chinatown's Restaurants

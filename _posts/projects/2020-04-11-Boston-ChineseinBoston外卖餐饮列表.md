@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [USA, Boston]
+tags: [us, Boston]
 meta:
   keywords: "USA, Boston"
 image:

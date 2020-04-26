@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [Germany, Berlin]
+tags: [Germany, Berlin, eu]
 meta:
   keywords: "berlin, asian food, chinese restaurant, asian restaurants"
 title: Berlin Asian Restaurants

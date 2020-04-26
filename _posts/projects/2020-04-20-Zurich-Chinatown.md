@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [Switzerland, Zurich]
+tags: [Switzerland, Zurich, eu]
 meta:
   keywords: "Switzerland, Zurich, Chinatown"
 image:

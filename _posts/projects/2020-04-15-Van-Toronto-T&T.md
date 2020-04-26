@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [Canada, Toronto, Vancouver]
+tags: [canada, Toronto, Vancouver]
 meta:
   keywords: "Canada, Toronto, Vancouver"
 image:

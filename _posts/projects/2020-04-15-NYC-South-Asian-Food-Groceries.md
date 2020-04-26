@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [USA, New York, New Jersey, Connecticut]
+tags: [us, New York, New Jersey, Connecticut]
 meta:
   keywords: "New York, New Jersey, Connecticut"
 image:

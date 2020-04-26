@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [USA, Grand Rapids]
+tags: [us, Grand Rapids]
 meta:
   keywords: "USA, grand rapids, asian food, chinese food"
 title: Grand Rapids Reddit Asian Food Thread

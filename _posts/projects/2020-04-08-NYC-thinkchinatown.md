@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [USA, New York City]
+tags: [us, New York City]
 meta:
   keywords: "nyc, chinatown, chinese food"
 title: Think Chinatown - Recovery

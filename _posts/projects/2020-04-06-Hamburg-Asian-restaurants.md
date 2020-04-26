@@ -2,7 +2,7 @@
 layout: project
 permalink: /:title/
 category: projects
-tags: [Germany, Hamburg]
+tags: [Germany, Hamburg, eu]
 meta:
   keywords: "germany, hamburg, asian restaurant, chinese food"
 title: Asian Fine Dining in Hamburg
