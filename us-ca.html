@@ -20,24 +20,6 @@
 			</div>
 		</section>
 		<section class="projects">
-			<div class="container">
-				<h2>Asian American Community Resources</h2>
-				<ul class="projects-list">
-					{% for item in site.categories.projects %}
-                     {% if item.tags contains "us" %}
-						<li>
-							<a href="{{ item.url | prepend: site.baseurl }}">
-								<div class="img-wrapper">
-									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
-								</div>
-								<span class="h2">{{ item.project.location }}</span>
-								<h3>{{ item.project.title }}</h3>
-							</a>
-						</li>
-                     {% endif %}
-					{% endfor %}
-				</ul>
-			</div>
             <div class="container">
 				<h2>Asian Canadian Community Resources</h2>
 				<ul class="projects-list">
@@ -56,6 +38,25 @@
 					{% endfor %}
 				</ul>
 			</div>
+			<div class="container">
+				<h2>Asian American Community Resources</h2>
+				<ul class="projects-list">
+					{% for item in site.categories.projects %}
+                     {% if item.tags contains "us" %}
+						<li>
+							<a href="{{ item.url | prepend: site.baseurl }}">
+								<div class="img-wrapper">
+									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+								</div>
+								<span class="h2">{{ item.project.location }}</span>
+								<h3>{{ item.project.title }}</h3>
+							</a>
+						</li>
+                     {% endif %}
+					{% endfor %}
+				</ul>
+			</div>
+            
 		</section>
 	</main>
 	{% include footer.html %}
